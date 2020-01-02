@@ -1,6 +1,7 @@
 var Ball = function () {
   this.size = 40,
-  this.speed = 650,
+  this.speed = 700,
+
   /*
   * R = 2*(V dot N)*N - V
   * V: velocity vector

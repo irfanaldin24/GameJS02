@@ -1,6 +1,8 @@
 // Handle keyboard controls
 var keysDown = {};
-var ROTATION_ANGLE = 10;
+
+var ROTATION_ANGLE = 15;
+
 
 addEventListener("keydown", function (e) {
 

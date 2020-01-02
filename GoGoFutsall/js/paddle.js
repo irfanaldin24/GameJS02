@@ -1,6 +1,7 @@
 var Paddle = function () {
   this.score = 0,
-  this.speed = 450,
+  this.speed = 500,
+
   this.width = 74,
   this.height = 156,
 
